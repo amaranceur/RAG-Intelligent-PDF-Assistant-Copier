@@ -1,6 +1,6 @@
 google-genai>=1.0.0
-sentence-transformers
-faiss-cpu
-pymupdf
-gradio
-numpy
+sentence-transformers>=2.7.0
+faiss-cpu>=1.7.4
+pymupdf>=1.24.0
+numpy>=1.24.0
+gradio>=4.0.0
