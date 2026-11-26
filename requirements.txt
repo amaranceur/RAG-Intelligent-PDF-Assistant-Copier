@@ -1,0 +1,6 @@
+google-genai>=1.0.0
+sentence-transformers
+faiss-cpu
+pymupdf
+gradio
+numpy
