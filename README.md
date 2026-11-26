@@ -1,4 +1,4 @@
-# 📚 Intelligent PDF Question Answering System Using RAG
+#  Intelligent PDF Question Answering System Using RAG
 
 Application de questions-réponses sur des documents PDF, fondée sur la **Retrieval-Augmented Generation (RAG)** : l'utilisateur importe un ou plusieurs PDF, pose une question, et reçoit une réponse **basée uniquement sur ces documents**, avec le nom du PDF et le numéro de page des sources.
 
